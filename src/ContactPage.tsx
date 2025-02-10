@@ -16,8 +16,8 @@ function ContactPage() {
           {/* <div className="inline-block p-4 bg-blue-500 rounded-full mb-4">
             <MessageCircle size={40} className="text-white" />
           </div> */}
-          <div className="inline-block bg-green-500 rounded-full mb-4">
-            <img src="/sinoca-default-399x82.png" alt="Logo" className="w-40 h-40" />
+          <div className="inline-block bg-white rounded-full mb-2">
+            <img src="/sinoca-default-399x82.png" alt="Logo" className="w-[280px] h-[280px]" />
           </div>
           <h1 className="text-3xl font-bold text-gray-800 mb-2">Contactanos</h1>
           <p className="text-gray-600">Si te comunicas al número de contacto y no tenes respuesta es posible que hayamos tenido inconvenientes con el mismo. Seguí los pasos para comunicarte nuevamente:</p>
